@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+langchain-classic
+langchain-huggingface
+langchain-community
+transformers
